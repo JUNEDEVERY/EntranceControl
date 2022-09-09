@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe60e341-e103-4dd7-967e-c334e834744e": {
+      "ProjectGuid": "fe60e341-e103-4dd7-967e-c334e834744e",
+      "DisplayName": "EntranceControl",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

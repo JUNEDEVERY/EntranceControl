@@ -1,0 +1,24 @@
+C:\Users\stron\source\repos\EntranceControl\EntranceControl\bin\Debug\EntranceControl.exe.config
+C:\Users\stron\source\repos\EntranceControl\EntranceControl\bin\Debug\EntranceControl.exe
+C:\Users\stron\source\repos\EntranceControl\EntranceControl\bin\Debug\EntranceControl.pdb
+C:\Users\stron\source\repos\EntranceControl\EntranceControl\obj\Debug\EntranceControl.csproj.AssemblyReference.cache
+C:\Users\stron\source\repos\EntranceControl\EntranceControl\obj\Debug\EntranceControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\stron\source\repos\EntranceControl\EntranceControl\obj\Debug\EntranceControl.csproj.CoreCompileInputs.cache
+C:\Users\stron\source\repos\EntranceControl\EntranceControl\obj\Debug\EntranceControl.exe
+C:\Users\stron\source\repos\EntranceControl\EntranceControl\obj\Debug\EntranceControl.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\EntranceControl\EntranceControl\bin\Debug\EntranceControl.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\EntranceControl\EntranceControl\bin\Debug\EntranceControl.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\EntranceControl\EntranceControl\bin\Debug\EntranceControl.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.pdb
+C:\Users\stron\OneDrive\Рабочий стол\EntranceControl\EntranceControl\bin\Debug\EntranceControl.exe.config
+C:\Users\stron\OneDrive\Рабочий стол\EntranceControl\EntranceControl\bin\Debug\EntranceControl.exe
+C:\Users\stron\OneDrive\Рабочий стол\EntranceControl\EntranceControl\bin\Debug\EntranceControl.pdb
+C:\Users\stron\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.csproj.AssemblyReference.cache
+C:\Users\stron\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\stron\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.csproj.CoreCompileInputs.cache
+C:\Users\stron\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.exe
+C:\Users\stron\OneDrive\Рабочий стол\EntranceControl\EntranceControl\obj\Debug\EntranceControl.pdb
